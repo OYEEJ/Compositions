@@ -1,0 +1,59 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\10037\Desktop\AA_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\10037\Desktop\AA_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\10037\Desktop\AA_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'StartPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.865342 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4764 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'LoadingPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'LoadingPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'LoadingPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'RightTopPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.894711 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 8387.
+Total: 4.558853 ms (FindLiveObjects: 1.003719 ms CreateObjectMapping: 0.261547 ms MarkObjects: 1.917896 ms  DeleteObjects: 1.374982 ms)
+
